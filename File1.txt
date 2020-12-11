@@ -1,5 +1,7 @@
 Este es un archivo de texto
 
-esta es la linea segunda
+esta es la linea 2daa
 
-y esta la linea tercera
+y esta la linea 3ra
+
+y 4ta linea
