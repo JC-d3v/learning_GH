@@ -11,3 +11,7 @@ rama001c
 master2a
 master2b
 master2c
+rama002a
+rama002b
+rama002c
+rama002d
