@@ -1,0 +1,10 @@
+linea 1
+cabecera 
+    TITULOS DE ARCHIVO
+
+linea 2
+cuerpo
+    CUERPO DEL TEXTO
+    linea 2
+    linea 3
+linea 3 
