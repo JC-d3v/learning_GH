@@ -1,0 +1,3 @@
+Este es el archivo cabecera
+linea dos del archivo cabecera
+linea tres del archivo cabecera 
