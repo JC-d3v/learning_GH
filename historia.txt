@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 linea 1 cambio en master
 masster2:
-=======
-linea 1 desde cabecera
->>>>>>> Rcabecera
 cabecera 
 nueva cabecera 2
     TITULOS DE ARCHIVO repeticion en minusculas
