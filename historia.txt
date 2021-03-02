@@ -14,3 +14,4 @@ nueva linea 4
 nueva linea en marzo
 
 cambios para ssh desde local
+cambios desde la mac de Jorge en repositorio remoto
