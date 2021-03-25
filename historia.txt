@@ -2,7 +2,7 @@ linea 1 cambio en master
 masster2:
 cabecera 
 nueva cabecera 2
-    TITULOS DE ARCHIVO repeticion en minusculas
+    Titulos de archivo repeticion en minusculas
 
 linea 2
 cuerpo
